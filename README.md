@@ -1,3 +1,5 @@
+![](img/fff.PNG)
+
 ## Welcome to Big Data Analysis using Machine Learning 
 
 ### In this page we will use Python for ML on Big Data, and the topics are  :
