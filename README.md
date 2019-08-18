@@ -1,8 +1,9 @@
 ![](img/fff.PNG)
 
-## Welcome to Big Data Analysis using Machine Learning 
+## Welcome to Big Data Analysis using Machine Learning For Beginners , and for advance user please <a href="">visit this repository</a>  
 
-### In this page we will use Python for ML on Big Data, and the topics are  :
+### In this repositories you will laern how to use Python for ML on Big Data, and the topics are  :
+
     
    1) - Big data and Machine Learning Using SciKit-Learn
    
@@ -24,14 +25,14 @@
 
 
 
-
-
 You can see this Pages site at  [https://github.com/turkialjrees/Big-Data-ML](https://github.com/turkialjrees/Big-Data-ML/settings). 
 
 ---
 
 ### Support or Contact
 
-Please visit my webpage for more articles on ML for Big Data 
+Please visit my other repositories for more articles on ML for Big Data 
+
+Note: please leave your comments , ask question , or feedback to the issue page from the main menue of each repository.
 
 <a href="https://turkialjrees.com">www.turkialjrees.com</a>
